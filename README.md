@@ -17,7 +17,9 @@ The robot is controlled wirelessly via an Xbox controller connected to an ESP32 
 | Motors | 4 | TT Hobby Motors |
 | Chassis | 1 | Custom — designed in Autodesk Fusion 360 |
 | Power Supply | 1 | 7.4V LiPo Battery |
-| Buck Converter | 1 | Steps down 7.4V to 5V for the ESP32 |
+| Buck Converter | 1 | Steps down 7.4V to 5V for the ESP32 and Motor Controllers |
+
+- [Fusion 360 Model](https://a360.co/3PUhbWw)
 
 
 ## Circuit Diagram

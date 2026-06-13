@@ -21,10 +21,6 @@ The robot is controlled wirelessly via an Xbox controller connected to an ESP32 
 
 - [Fusion 360 Model](https://a360.co/3PUhbWw)
 
-
-## Circuit Diagram
-*Coming soon*
-
 ## Built With
 - Autodesk Fusion 360 — CAD design
 - Arduino IDE — firmware
